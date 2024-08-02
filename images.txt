@@ -6,6 +6,29 @@ allanpk716/chinesesubfinder
 gitlab/gitlab-ce
 tensorflow/tensorflow
 ollama/ollama
+ahmadnassri/vsocde-server
+chigusa/bililive-go
+frooodle/s-pdf
+benphelps/homepage
+corentinth/it-tools
+jeessy/ddns-go
+linuxserver/heimdall
+homeassistant/home-assistant
+immich-app/immich-server
+immich-app/immich-machine-learning
+henrist/zerotier-one
+pch18/baota
+portainer/portainer-ce
+stilleshan/linux-command
+deluan/navidrome
+talebook/talebook
+networkstatic/iperf3
+netdata/netdata
+oznu/cloudflare-ddns
+wcjiang/reference
+whyour/qinglong
+xhongc/music_tag_web
+xhofe/alist
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
