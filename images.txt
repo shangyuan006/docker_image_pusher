@@ -29,6 +29,7 @@ wcjiang/reference
 whyour/qinglong
 xhongc/music_tag_web
 xhofe/alist
+dpanel/dpanel
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
