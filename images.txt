@@ -6,7 +6,7 @@ allanpk716/chinesesubfinder
 gitlab/gitlab-ce
 tensorflow/tensorflow
 ollama/ollama
-ahmadnassri/vsocde-server
+ahmadnassri/vscode-server
 chigusa/bililive-go
 frooodle/s-pdf
 benphelps/homepage
