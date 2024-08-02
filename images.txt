@@ -14,8 +14,8 @@ ghcr.io/corentinth/it-tools
 jeessy/ddns-go
 linuxserver/heimdall
 homeassistant/home-assistant
-ghcr.io/immich-app/immich-server
-ghcr.io/immich-app/immich-machine-learning
+ghcr.io/immich-app/immich-server:main
+ghcr.io/immich-app/immich-machine-learning:main
 henrist/zerotier-one
 pch18/baota
 portainer/portainer-ce
