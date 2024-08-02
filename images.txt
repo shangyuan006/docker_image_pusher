@@ -9,13 +9,13 @@ ollama/ollama
 ahmadnassri/vscode-server
 chigusa/bililive-go
 frooodle/s-pdf
-benphelps/homepage
-corentinth/it-tools
+ghcr.io/benphelps/homepage
+ghcr.io/corentinth/it-tools
 jeessy/ddns-go
 linuxserver/heimdall
 homeassistant/home-assistant
-immich-app/immich-server
-immich-app/immich-machine-learning
+ghcr.io/immich-app/immich-server
+ghcr.io/immich-app/immich-machine-learning
 henrist/zerotier-one
 pch18/baota
 portainer/portainer-ce
