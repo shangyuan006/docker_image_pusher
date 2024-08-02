@@ -30,6 +30,7 @@ whyour/qinglong
 xhongc/music_tag_web
 xhofe/alist
 dpanel/dpanel
+ghcr.io/open-webui/open-webui
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
