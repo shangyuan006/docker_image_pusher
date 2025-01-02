@@ -31,6 +31,7 @@ xhongc/music_tag_web
 xhofe/alist
 dpanel/dpanel
 ghcr.io/open-webui/open-webui
+mzz2017/v2raya
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
