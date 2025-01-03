@@ -34,5 +34,10 @@ ghcr.io/open-webui/open-webui
 mzz2017/v2raya
 k-docker.asia/mzz2017/v2raya
 
+postgres:14
+ghcr.io/linkwarden/linkwarden
+
+jlesage/handbrake
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
